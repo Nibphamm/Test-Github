@@ -5,6 +5,6 @@ public class Home {
         System.out.println("This is the Home class.");
     }
     public static void display(String[] args) {
-        System.out.println("Fix bugs cho thang lon ngu vcl");
+//        System.out.println("Fix bugs cho thang lon ngu vcl");
     }
 }
